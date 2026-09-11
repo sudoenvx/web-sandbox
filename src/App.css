@@ -182,3 +182,8 @@
     border-right-color: var(--border);
   }
 }
+
+
+body {
+  background-color: #e1e1e1;
+}
